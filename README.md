@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./img/if-logo.png" alt="Logo dos Vingadores" width="450"/>
+  <img src="./img/if-logo.png" alt="Logo IFTM" width="450"/>
   <h3>Instituto Federal de Educação, Ciência e Tecnologia do Triângulo Mineiro - Campus Ituiutaba</h3>
   <p><em>Graduação em Tecnologia em <u>Análise e Desenvolvimento de Sistemas</u></em></p>
 </div>
@@ -79,18 +79,24 @@ Este projeto é um website responsivo dedicado aos Vingadores da Marvel, desenvo
 - Grid da equipe em 1 coluna
 - Grid de pôsteres em 2 colunas
 - Footer empilhado
+<div align="center" style="max-height: 1000px; overflow-y: auto; border: 1px solid #ccc; padding: 10px;">
+  <img src="./Screenshot Vingadores (Pequena).jpg" alt="Screenshot Mobile" width="100%"/>
+</div>
 
 ### 📱 Tablet (641px - 799px)
 - Grid da equipe em 2 colunas
 - Grid de pôsteres em 4 colunas
+<div align="center" style="max-height: 1000px; overflow-y: auto; border: 1px solid #ccc; padding: 10px;">
+  <img src="./Screenshot Vingadores (Média).jpg" alt="Screenshot Mobile" width="100%"/>
+</div>
 
-### 💻 Desktop (800px - 959px)
-- Layout intermediário otimizado
-
-### 🖥️ Desktop Grande (960px+)
+### 🖥️ Desktop Grande (800px+)
 - Grid da equipe em 3 colunas com hover effects
 - Grid de pôsteres em 6 colunas
 - Footer em layout horizontal
+<div align="center" style="max-height: 1000px; overflow-y: auto; border: 1px solid #ccc; padding: 10px;">
+  <img src="./Screenshot Vingadores (Grande).jpg" alt="Screenshot Mobile" width="100%"/>
+</div>
 
 ## 💡 Funcionalidades Técnicas
 
@@ -112,4 +118,3 @@ Este projeto é um website responsivo dedicado aos Vingadores da Marvel, desenvo
 
 - **Desenvolvimento**: <u>Bruno Pereira</u>
 - **Projeto**: Aula de Responsividade, professor <u>Me. Daniel Pimentel</u>
-- **Instituição**: Instituto Federal do Triângulo Mineiro - Campus Ituiutaba
