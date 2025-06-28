@@ -8,7 +8,7 @@
 
 ## 📋 Descrição do Projeto
 
-Este projeto é um website responsivo dedicado aos Vingadores da Marvel, desenvolvido como parte do trabalho de **Responsividade (15 pontos)**. O site apresenta informações sobre a equipe de heróis, galeria de pôsteres e design totalmente adaptável para diferentes dispositivos.
+Este projeto é um website responsivo dedicado aos Vingadores da Marvel, desenvolvido como parte do trabalho de **Responsividade**. O site apresenta informações sobre a equipe de heróis, galeria de pôsteres e design totalmente adaptável para diferentes dispositivos.
 
 ## 🎯 Funcionalidades Implementadas
 
